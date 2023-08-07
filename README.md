@@ -1,5 +1,5 @@
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h1>Hi, my name is Ben Wilson</h1>
-<h2>Web and Discord Bot Developer</h2>
+<h2>Full-Stack Web and Discord Bot Developer</h2>
 Growing up I've always had an interest in computers and technology. In the year 2020 is when I started my coding journey in Web Development. I learned HTML & CSS and practiced by building basic pages with Adobe Dreamweaver. A couple of months later I went deeper into Web Development and learned Javascript and PHP with MySQL and practiced by building login pages and storing and retrieving user data. Going into 2022, my love for coding grew bigger and I moved towards creating new projects outside of Web Development.
 <hr />
 
